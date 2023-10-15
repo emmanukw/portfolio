@@ -1,0 +1,11 @@
+
+
+create links for the icons for github and twitter, linkedin.
+
+
+remove the hire me button. Is it necessary?
+
+remove the animation from copyright
+
+link all the buttons to desired pages
+replace my journey with portfolio of work done
